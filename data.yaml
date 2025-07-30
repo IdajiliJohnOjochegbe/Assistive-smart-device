@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 26
+names: ['ATM stand', 'air condition', 'building', 'car', 'chair', 'door', 'drainage', 'fan', 'fire hydrant', 'hanging object', 'laptop', 'maker board', 'monitor', 'poles', 'pothole', 'projector', 'screen', 'server', 'sidewalks', 'signs', 'slippery ground', 'staircase', 'table', 'traffic light', 'tree', 'wastebin']
+
+roboflow:
+  workspace: smart-glasses-vouzi
+  project: project-custom-dataset
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/smart-glasses-vouzi/project-custom-dataset/dataset/1
