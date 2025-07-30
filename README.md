@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 3. **Run the main script**
 ```bash
-python src/object_detection.py
+python main.py
 ```
 
 ## 🛠 Hardware Components
