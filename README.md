@@ -45,10 +45,14 @@ python main.py
 
 ## 🛠 Hardware Components
 🧠 Raspberry Pi 4 Model B
+
 📷 USB Camera
+
 🌐 NEO-6M GPS Module
+
 📡 HC-SR04 Ultrasonic Sensors
-🔊 Mini Speaker + Microphone
+
+🔊 airpod
 
 ## 📷 finalized Device system
 ![Final Device System](https://github.com/IdajiliJohnOjochegbe/Assistive-smart-device/blob/main/used.jpg)
